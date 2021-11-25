@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31911.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SICOBI", "SICOBI.csproj", "{ECF435D1-DF2B-4D60-B531-08CA3C5B5C6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECF435D1-DF2B-4D60-B531-08CA3C5B5C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF435D1-DF2B-4D60-B531-08CA3C5B5C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF435D1-DF2B-4D60-B531-08CA3C5B5C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF435D1-DF2B-4D60-B531-08CA3C5B5C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68046F1C-E17C-4ED2-877A-B45295FEA24F}
+	EndGlobalSection
+EndGlobal
